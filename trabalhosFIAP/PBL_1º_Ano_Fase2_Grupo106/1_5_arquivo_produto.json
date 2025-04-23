@@ -1,0 +1,32 @@
+[
+    {
+        "descricao": "1 kg de laranja",
+        "valor": 8.00,
+        "embalagem": "sacola plástica",
+        "icms": 1.44
+    },
+    {
+        "descricao": "Pack de Coca-Cola (6 x 350 ml)",
+        "valor": 25.00,
+        "embalagem": "caixa de papelão",
+        "icms": 4.50
+    },
+    {
+        "descricao": "TV 4K 50\"",
+        "valor": 2200.00,
+        "embalagem": "caixa de isopor",
+        "icms": 396.00
+    },
+    {
+        "descricao": "Celular Samsung Galaxy S21",
+        "valor": 3500.00,
+        "embalagem": "caixa de papelão",
+        "icms": 630.00
+    },
+    {
+        "descricao": "Fone de ouvido sem fio",
+        "valor": 150.00,
+        "embalagem": "case rígida",
+        "icms": 27.00
+    }
+]
