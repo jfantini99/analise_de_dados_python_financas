@@ -1,0 +1,35 @@
+# 📦 JJBIKE - Projeto de Data Warehouse
+
+Este repositório contém os scripts SQL e diagramas do projeto de Data Warehouse desenvolvido como parte da formação em Engenharia de Dados / BI.
+
+## 🎯 Objetivo
+
+Criar um DW que permita análises históricas e gerenciais sobre as operações da JJBIKE, com foco em:
+
+- Evolução de vendas
+- Mudanças no perfil de clientes
+- Desempenho de vendedores
+- Histórico de produtos e planos
+
+## 🛠️ Estrutura do projeto
+
+- `modelo-relacional.png`: Diagrama relacional do sistema transacional
+- `scripts/`: Contém todos os scripts SQL para criação de tabelas, ETL e consultas analíticas
+- `modelo-dimensional.png`: Estrutura estrela criada no DW
+
+## 🧪 Tecnologias
+
+- PostgreSQL
+- SQL puro (DML, DDL)
+- Modelagem estrela
+- Slowly Changing Dimension (SCD Tipo 2)
+
+## 📈 Exemplos de Análises
+
+- Quais clientes trocaram de plano e quando
+- Produtos mais vendidos por período
+- Variação das vendas mensais por vendedor
+
+---
+
+Feito com 💙 por [Seu Nome]
